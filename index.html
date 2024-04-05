@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Países</title>
+</head>
+
+<body>
+    <h1>Lista de Países de América del Sur</h1>
+    <ul id="country-list"></ul>
+
+    <script>
+        async function fetchCountries() {
+            const subregion = "south%20america";
+            const subregionResponse = await fetch(`https://restcountries.com/v3.1/subregion/${subregion}`);
+            const subregionData = await subregionResponse.json();
+
+            const countryList = document.getElementById('country-list');
+
+            subregionData.forEach(async (country) => {
+                const countryName = country.name.common;
+                const officialNameResponse = await fetch(
+                    `https://restcountries.com/v3.1/name/${countryName}`);
+                const officialNameData = await officialNameResponse.json();
+                const officialName = officialNameData[0].name.official;
+                const listItem = document.createElement('li');
+                listItem.textContent = `País: ${countryName}, Nombre oficial: ${officialName}`;
+                countryList.appendChild(listItem);
+            });
+        }
+
+        fetchCountries();
+    </script>
+</body>
+
+</html>
