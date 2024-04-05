@@ -5,11 +5,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Consulta de Países</title>
+    <!-- Agregar Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>
-    <h1>Lista de Países de América del Sur</h1>
-    <ul id="country-list"></ul>
+    <div class="container">
+        <h1 class="mt-5 mb-3">Lista de Países de América del Sur</h1>
+        <!-- Agregar clases de Bootstrap para la lista -->
+        <ul id="country-list" class="list-group"></ul>
+    </div>
+
+    <!-- Agregar script de Bootstrap y jQuery (opcional) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
     <script>
         async function fetchCountries() {
@@ -26,6 +36,8 @@
                 const officialNameData = await officialNameResponse.json();
                 const officialName = officialNameData[0].name.official;
                 const listItem = document.createElement('li');
+                // Agregar clases de Bootstrap al elemento de la lista
+                listItem.className = 'list-group-item';
                 listItem.textContent = `País: ${countryName}, Nombre oficial: ${officialName}`;
                 countryList.appendChild(listItem);
             });
