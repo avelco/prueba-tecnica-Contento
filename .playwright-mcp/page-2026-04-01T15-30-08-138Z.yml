@@ -1,0 +1,212 @@
+- main [ref=e2]:
+  - heading "Lista de publicaciones" [level=1] [ref=e3]
+  - paragraph [ref=e4]: Haz clic en un título para consultar su contenido a través del servidor backend.
+  - generic [ref=e5]:
+    - region "Títulos" [ref=e6]:
+      - heading "Títulos" [level=2] [ref=e7]
+      - status [ref=e8]: Selecciona un título para consultar sus detalles.
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - button "sunt aut facere repellat provident occaecati excepturi optio reprehenderit" [active] [ref=e14] [cursor=pointer]
+        - listitem [ref=e15]:
+          - button "qui est esse" [ref=e16] [cursor=pointer]
+        - listitem [ref=e17]:
+          - button "ea molestias quasi exercitationem repellat qui ipsa sit aut" [ref=e18] [cursor=pointer]
+        - listitem [ref=e19]:
+          - button "eum et est occaecati" [ref=e20] [cursor=pointer]
+        - listitem [ref=e21]:
+          - button "nesciunt quas odio" [ref=e22] [cursor=pointer]
+        - listitem [ref=e23]:
+          - button "dolorem eum magni eos aperiam quia" [ref=e24] [cursor=pointer]
+        - listitem [ref=e25]:
+          - button "magnam facilis autem" [ref=e26] [cursor=pointer]
+        - listitem [ref=e27]:
+          - button "dolorem dolore est ipsam" [ref=e28] [cursor=pointer]
+        - listitem [ref=e29]:
+          - button "nesciunt iure omnis dolorem tempora et accusantium" [ref=e30] [cursor=pointer]
+        - listitem [ref=e31]:
+          - button "optio molestias id quia eum" [ref=e32] [cursor=pointer]
+        - listitem [ref=e33]:
+          - button "et ea vero quia laudantium autem" [ref=e34] [cursor=pointer]
+        - listitem [ref=e35]:
+          - button "in quibusdam tempore odit est dolorem" [ref=e36] [cursor=pointer]
+        - listitem [ref=e37]:
+          - button "dolorum ut in voluptas mollitia et saepe quo animi" [ref=e38] [cursor=pointer]
+        - listitem [ref=e39]:
+          - button "voluptatem eligendi optio" [ref=e40] [cursor=pointer]
+        - listitem [ref=e41]:
+          - button "eveniet quod temporibus" [ref=e42] [cursor=pointer]
+        - listitem [ref=e43]:
+          - button "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio" [ref=e44] [cursor=pointer]
+        - listitem [ref=e45]:
+          - button "fugit voluptas sed molestias voluptatem provident" [ref=e46] [cursor=pointer]
+        - listitem [ref=e47]:
+          - button "voluptate et itaque vero tempora molestiae" [ref=e48] [cursor=pointer]
+        - listitem [ref=e49]:
+          - button "adipisci placeat illum aut reiciendis qui" [ref=e50] [cursor=pointer]
+        - listitem [ref=e51]:
+          - button "doloribus ad provident suscipit at" [ref=e52] [cursor=pointer]
+        - listitem [ref=e53]:
+          - button "asperiores ea ipsam voluptatibus modi minima quia sint" [ref=e54] [cursor=pointer]
+        - listitem [ref=e55]:
+          - button "dolor sint quo a velit explicabo quia nam" [ref=e56] [cursor=pointer]
+        - listitem [ref=e57]:
+          - button "maxime id vitae nihil numquam" [ref=e58] [cursor=pointer]
+        - listitem [ref=e59]:
+          - button "autem hic labore sunt dolores incidunt" [ref=e60] [cursor=pointer]
+        - listitem [ref=e61]:
+          - button "rem alias distinctio quo quis" [ref=e62] [cursor=pointer]
+        - listitem [ref=e63]:
+          - button "est et quae odit qui non" [ref=e64] [cursor=pointer]
+        - listitem [ref=e65]:
+          - button "quasi id et eos tenetur aut quo autem" [ref=e66] [cursor=pointer]
+        - listitem [ref=e67]:
+          - button "delectus ullam et corporis nulla voluptas sequi" [ref=e68] [cursor=pointer]
+        - listitem [ref=e69]:
+          - button "iusto eius quod necessitatibus culpa ea" [ref=e70] [cursor=pointer]
+        - listitem [ref=e71]:
+          - button "a quo magni similique perferendis" [ref=e72] [cursor=pointer]
+        - listitem [ref=e73]:
+          - button "ullam ut quidem id aut vel consequuntur" [ref=e74] [cursor=pointer]
+        - listitem [ref=e75]:
+          - button "doloremque illum aliquid sunt" [ref=e76] [cursor=pointer]
+        - listitem [ref=e77]:
+          - button "qui explicabo molestiae dolorem" [ref=e78] [cursor=pointer]
+        - listitem [ref=e79]:
+          - button "magnam ut rerum iure" [ref=e80] [cursor=pointer]
+        - listitem [ref=e81]:
+          - button "id nihil consequatur molestias animi provident" [ref=e82] [cursor=pointer]
+        - listitem [ref=e83]:
+          - button "fuga nam accusamus voluptas reiciendis itaque" [ref=e84] [cursor=pointer]
+        - listitem [ref=e85]:
+          - button "provident vel ut sit ratione est" [ref=e86] [cursor=pointer]
+        - listitem [ref=e87]:
+          - button "explicabo et eos deleniti nostrum ab id repellendus" [ref=e88] [cursor=pointer]
+        - listitem [ref=e89]:
+          - button "eos dolorem iste accusantium est eaque quam" [ref=e90] [cursor=pointer]
+        - listitem [ref=e91]:
+          - button "enim quo cumque" [ref=e92] [cursor=pointer]
+        - listitem [ref=e93]:
+          - button "non est facere" [ref=e94] [cursor=pointer]
+        - listitem [ref=e95]:
+          - button "commodi ullam sint et excepturi error explicabo praesentium voluptas" [ref=e96] [cursor=pointer]
+        - listitem [ref=e97]:
+          - button "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis" [ref=e98] [cursor=pointer]
+        - listitem [ref=e99]:
+          - button "optio dolor molestias sit" [ref=e100] [cursor=pointer]
+        - listitem [ref=e101]:
+          - button "ut numquam possimus omnis eius suscipit laudantium iure" [ref=e102] [cursor=pointer]
+        - listitem [ref=e103]:
+          - button "aut quo modi neque nostrum ducimus" [ref=e104] [cursor=pointer]
+        - listitem [ref=e105]:
+          - button "quibusdam cumque rem aut deserunt" [ref=e106] [cursor=pointer]
+        - listitem [ref=e107]:
+          - button "ut voluptatem illum ea doloribus itaque eos" [ref=e108] [cursor=pointer]
+        - listitem [ref=e109]:
+          - button "laborum non sunt aut ut assumenda perspiciatis voluptas" [ref=e110] [cursor=pointer]
+        - listitem [ref=e111]:
+          - button "repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem" [ref=e112] [cursor=pointer]
+        - listitem [ref=e113]:
+          - button "soluta aliquam aperiam consequatur illo quis voluptas" [ref=e114] [cursor=pointer]
+        - listitem [ref=e115]:
+          - button "qui enim et consequuntur quia animi quis voluptate quibusdam" [ref=e116] [cursor=pointer]
+        - listitem [ref=e117]:
+          - button "ut quo aut ducimus alias" [ref=e118] [cursor=pointer]
+        - listitem [ref=e119]:
+          - button "sit asperiores ipsam eveniet odio non quia" [ref=e120] [cursor=pointer]
+        - listitem [ref=e121]:
+          - button "sit vel voluptatem et non libero" [ref=e122] [cursor=pointer]
+        - listitem [ref=e123]:
+          - button "qui et at rerum necessitatibus" [ref=e124] [cursor=pointer]
+        - listitem [ref=e125]:
+          - button "sed ab est est" [ref=e126] [cursor=pointer]
+        - listitem [ref=e127]:
+          - button "voluptatum itaque dolores nisi et quasi" [ref=e128] [cursor=pointer]
+        - listitem [ref=e129]:
+          - button "qui commodi dolor at maiores et quis id accusantium" [ref=e130] [cursor=pointer]
+        - listitem [ref=e131]:
+          - button "consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere" [ref=e132] [cursor=pointer]
+        - listitem [ref=e133]:
+          - button "voluptatem doloribus consectetur est ut ducimus" [ref=e134] [cursor=pointer]
+        - listitem [ref=e135]:
+          - button "beatae enim quia vel" [ref=e136] [cursor=pointer]
+        - listitem [ref=e137]:
+          - button "voluptas blanditiis repellendus animi ducimus error sapiente et suscipit" [ref=e138] [cursor=pointer]
+        - listitem [ref=e139]:
+          - button "et fugit quas eum in in aperiam quod" [ref=e140] [cursor=pointer]
+        - listitem [ref=e141]:
+          - button "consequatur id enim sunt et et" [ref=e142] [cursor=pointer]
+        - listitem [ref=e143]:
+          - button "repudiandae ea animi iusto" [ref=e144] [cursor=pointer]
+        - listitem [ref=e145]:
+          - button "aliquid eos sed fuga est maxime repellendus" [ref=e146] [cursor=pointer]
+        - listitem [ref=e147]:
+          - button "odio quis facere architecto reiciendis optio" [ref=e148] [cursor=pointer]
+        - listitem [ref=e149]:
+          - button "fugiat quod pariatur odit minima" [ref=e150] [cursor=pointer]
+        - listitem [ref=e151]:
+          - button "voluptatem laborum magni" [ref=e152] [cursor=pointer]
+        - listitem [ref=e153]:
+          - button "et iusto veniam et illum aut fuga" [ref=e154] [cursor=pointer]
+        - listitem [ref=e155]:
+          - button "sint hic doloribus consequatur eos non id" [ref=e156] [cursor=pointer]
+        - listitem [ref=e157]:
+          - button "consequuntur deleniti eos quia temporibus ab aliquid at" [ref=e158] [cursor=pointer]
+        - listitem [ref=e159]:
+          - button "enim unde ratione doloribus quas enim ut sit sapiente" [ref=e160] [cursor=pointer]
+        - listitem [ref=e161]:
+          - button "dignissimos eum dolor ut enim et delectus in" [ref=e162] [cursor=pointer]
+        - listitem [ref=e163]:
+          - button "doloremque officiis ad et non perferendis" [ref=e164] [cursor=pointer]
+        - listitem [ref=e165]:
+          - button "necessitatibus quasi exercitationem odio" [ref=e166] [cursor=pointer]
+        - listitem [ref=e167]:
+          - button "quam voluptatibus rerum veritatis" [ref=e168] [cursor=pointer]
+        - listitem [ref=e169]:
+          - button "pariatur consequatur quia magnam autem omnis non amet" [ref=e170] [cursor=pointer]
+        - listitem [ref=e171]:
+          - button "labore in ex et explicabo corporis aut quas" [ref=e172] [cursor=pointer]
+        - listitem [ref=e173]:
+          - button "tempora rem veritatis voluptas quo dolores vero" [ref=e174] [cursor=pointer]
+        - listitem [ref=e175]:
+          - button "laudantium voluptate suscipit sunt enim enim" [ref=e176] [cursor=pointer]
+        - listitem [ref=e177]:
+          - button "odit et voluptates doloribus alias odio et" [ref=e178] [cursor=pointer]
+        - listitem [ref=e179]:
+          - button "optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut" [ref=e180] [cursor=pointer]
+        - listitem [ref=e181]:
+          - button "dolore veritatis porro provident adipisci blanditiis et sunt" [ref=e182] [cursor=pointer]
+        - listitem [ref=e183]:
+          - button "placeat quia et porro iste" [ref=e184] [cursor=pointer]
+        - listitem [ref=e185]:
+          - button "nostrum quis quasi placeat" [ref=e186] [cursor=pointer]
+        - listitem [ref=e187]:
+          - button "sapiente omnis fugit eos" [ref=e188] [cursor=pointer]
+        - listitem [ref=e189]:
+          - button "sint soluta et vel magnam aut ut sed qui" [ref=e190] [cursor=pointer]
+        - listitem [ref=e191]:
+          - button "ad iusto omnis odit dolor voluptatibus" [ref=e192] [cursor=pointer]
+        - listitem [ref=e193]:
+          - button "aut amet sed" [ref=e194] [cursor=pointer]
+        - listitem [ref=e195]:
+          - button "ratione ex tenetur perferendis" [ref=e196] [cursor=pointer]
+        - listitem [ref=e197]:
+          - button "beatae soluta recusandae" [ref=e198] [cursor=pointer]
+        - listitem [ref=e199]:
+          - button "qui qui voluptates illo iste minima" [ref=e200] [cursor=pointer]
+        - listitem [ref=e201]:
+          - button "id minus libero illum nam ad officiis" [ref=e202] [cursor=pointer]
+        - listitem [ref=e203]:
+          - button "quaerat velit veniam amet cupiditate aut numquam ut sequi" [ref=e204] [cursor=pointer]
+        - listitem [ref=e205]:
+          - button "quas fugiat ut perspiciatis vero provident" [ref=e206] [cursor=pointer]
+        - listitem [ref=e207]:
+          - button "laboriosam dolor voluptates" [ref=e208] [cursor=pointer]
+        - listitem [ref=e209]:
+          - button "temporibus sit alias delectus eligendi possimus magni" [ref=e210] [cursor=pointer]
+        - listitem [ref=e211]:
+          - button "at nam consequatur ea labore ea harum" [ref=e212] [cursor=pointer]
+    - complementary "Detalle" [ref=e9]:
+      - heading "Detalle" [level=2] [ref=e10]
+      - paragraph [ref=e11]: "Contenido de: sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+      - paragraph [ref=e213]: quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto

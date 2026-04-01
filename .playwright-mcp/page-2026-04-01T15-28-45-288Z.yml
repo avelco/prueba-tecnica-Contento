@@ -1,0 +1,12 @@
+- main [ref=e2]:
+  - heading "Lista de publicaciones" [level=1] [ref=e3]
+  - paragraph [ref=e4]: Haz clic en un título para consultar su contenido a través del servidor backend.
+  - generic [ref=e5]:
+    - region "Títulos" [ref=e6]:
+      - heading "Títulos" [level=2] [ref=e7]
+      - status [ref=e8]: Cargando publicaciones...
+      - list
+    - complementary "Detalle" [ref=e9]:
+      - heading "Detalle" [level=2] [ref=e10]
+      - paragraph [ref=e11]: Selecciona una publicación para ver su contenido.
+      - paragraph
